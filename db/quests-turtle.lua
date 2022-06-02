@@ -87,6 +87,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 45,
     ["next"] = { 3569 },
   },
+  -- Hidden Enemies
+  [5727] = {
+    ["obj"] = {
+      ["U"] = { 3216 },
+    },
+  },
   -- Supplying the Sepulcher
   [6321] = {
     ["start"] = {
