@@ -294,6 +294,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Poison 6 Grain Crates, and slay 10 Remnants Farmers and 7 Remnants Militia on Garricks Stead before returning to Duchess Grelda.",
     ["D"] = "Are you aware of how the plague designed by the Cult of the Damned works? No? Well, it doesn't matter. What you need to know is that I have made something similar, though not as powerful as the original one. This vial contains a plague that will severely reduce the life expectancy of the living who consume it. Now, that is the part where you, my dear, come in. I need you to head north, past the Whispering Forest, to a farmstead called Garricks Stead. There, you will slip a bit of this liquid onto the human's supplies. And make sure that there are no witnesses.",
   },
+  [40105] = {
+    ["T"] = "Pride of the Dwarves",
+    ["O"] = "Slay 4 Twilight Cultists and retrieve the Second Plate of Uldum north of the \"Temple of Old\". Return to High Explorer Magellas with the plate and news of his expedition.",
+    ["D"] = "I've never begged in my life, $r, but I'll start now. Please! Avenge us and show those bastards what happens when you make an enemy of the Alliance! They—$c—went north of here. For Khaz Mo...",
+  },
   [40108] = {
     ["T"] = "The Lone Wolf",
     ["O"] = "Sage Truth Seeker wants you to search for the Farseer Logrash in the Northern part of Barrens.",
@@ -354,10 +359,25 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Acquire an Intact Power Core from Uldaman's Ancient Treasure.",
     ["D"] = "Hello again, impeccable timing! I have done what I can with the parts you acquired from the dig, but we're missing a crucial piece. This automaton's power source is some advanced crystalline power core. Unfortunately, the one in the chest has cracked, and it's energy has been depleted. None have been found here, and the dig has slowed down due to the golems. Do not despair though, similar power sources have been found in the Uldaman dig bordering between Loch Modan and the Badlands. That dig has also run into issues with the Dark Irons and with awakened defenders. You helped out here, so why not head over there, help them out, and grab me a power core while you're at it?",
   },
+  [40130] = {
+    ["T"] = "A Profitable Acquisition",
+    ["O"] = "Gather 2 Automaton Legs, 2 Automaton arms, and an Automaton Head from the Bael Modan Digsite.",
+    ["D"] = "Yo! You look like a capable sort! The dwarves recently struck rich! They found some juicy technology when they found a way inside the facility across the road. See, I managed to snatch this little thing while they were distracted with the facility defenses activating, but what I got is an incomplete piece of a greater whole! Get in there and grab me the rest. With your help, we'll be partners! I'll give you a generous... 40% share? We're talkin' priceless technology, so don't worry, it's enough! Go in there find me two matching legs, arms, and a head. There's some defenses but it's nothin' you can't handle!",
+  },
+  [40131] = {
+    ["T"] = "Requisitioning a Core",
+    ["O"] = "Acquire an Intact Power Core from Uldaman's Ancient Treasure.",
+    ["D"] = "Yo! Good to see you, man! I made progress but see, somethin's missing, and I doubt it can be found here—not in an intact state anyway. A normal power source won't do, not for this baby. It requires some major juice, so either hook it up to a massive generator the size of a house, which I cannot currently acquire... Or we collect a compatible power core! There's a ruin in the other part of the continent—Uldaman, I believe it's called, yeah! It's made by those Titanics or whatever they're called. Go to this ruin and get me a core. The deeper part of the complex is exposed there, so you can do it!",
+  },
   [40132] = {
     ["T"] = "The Activation",
     ["O"] = "Speak to Torble Sparksprocket and activate Analyzer X-51",
     ["D"] = "Thank you again. I believe the core is installed. So now all that's left to do is the final assembly, and then we'll have this automaton working! Speak to me again and say the word. Then, we'll turn it on.",
+  },
+  [40133] = {
+    ["T"] = "The Profitable Activation",
+    ["O"] = "Speak to Kex Blowmaster and activate Analyzer X-48",
+    ["D"] = "Yo, partner! It's all done, I'm about ready to get this thing turned on, so once you're ready to talk to me, and then we will turn it on!",
   },
   [40136] = {
     ["T"] = "Dwindling Supplies",
@@ -1527,7 +1547,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [60111] = {
     ["T"] = "A Decisive Blow",
     ["O"] = "Moon Priestess Amara has asked you to kill Agal in the cave below the road to Darnassus and Greenpaw inside Ban'ethil Barrow Den.",
-    ["D"] = "You have proven yourself capable enough in assisting us to deal with their leaders, Agal and Greenpaw, $C. Our scouts have pinpointed their locations. First is Agal, who orchestrates the ambushes from below the road in a cave. Second is Greenpaw, a powerful shaman who terrorizes Ban'ethil Barrow Den from within. They are surrounded by their respective underlings. I suggest you bring an ally or prepare yourself to fight your way through them alone. No matter your decision, may Elune protect you. ",
+    ["D"] = "You have proven yourself capable enough in assisting us to deal with their leaders, Agal and Greenpaw, $C. Our scouts have pinpointed their locations. First is Agal, who orchestrates the ambushes from below the road in a cave. Second is Greenpaw, a powerful shaman who terrorizes Ban'ethil Barrow Den from within. They are surrounded by their respective underlings. I suggest you bring an ally or prepare yourself to fight your way through them alone. No matter your decision, may Elune protect you.",
   },
   [60112] = {
     ["T"] = "Fallen Adventurers",

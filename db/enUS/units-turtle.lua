@@ -74,6 +74,7 @@ pfDB["units"]["enUS-turtle"] = {
   [60420] = "Ghoststalker",
   [60441] = "Torble Sparksprocket",
   [60442] = "Bael Modan Golem",
+  [60443] = "Kex Blowmaster",
   [60448] = "Dirty Jacob",
   [60452] = "First Mate McCoy",
   [60455] = "Fazzle 'The Slick'",
